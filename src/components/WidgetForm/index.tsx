@@ -49,7 +49,7 @@ export function WidgetForm() {
         />
       )}
       <footer className="text-xs text-neutral-400">
-        Feito com ❤️ por
+        Feito com ❤️ por{" "}
         <a
           className="underline underline-offeset-2"
           href="https://renatamacedo.vercel.app"
